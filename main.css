@@ -107,3 +107,18 @@ section h2 {
 #economy .articles article a {
     background-color: #ff9f1a;
 }
+#technology {
+     background-color: rgba(190, 88, 177, 0.1);  
+}
+
+#technology .articles article a {
+    background-color: rgb(190, 88, 177);
+}
+
+#wellness {
+    background-color: #9fc9f8
+}
+
+#wellness .articles article a {
+    background-color: #1aabff;
+}
